@@ -64,7 +64,7 @@ Retail data often holds valuable insights that can guide decision-making. This p
 ## 📬 Contact
 
 Made by **Alish**  
-📧 [vavadiyaalish@example.com]  
+📧 [vavadiyaalish@gmail.com.com]  
 🌐 [[LinkedIn Profile](https://www.linkedin.com/in/alish-patel-749a64281/)]
 
 ---
