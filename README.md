@@ -1,5 +1,5 @@
 # 🛍️ Vrinda Store Sales Analysis (2022)
-![Dashboard]![image](https://github.com/user-attachments/assets/66a6ed1c-c9a5-4b77-8ca9-4127e09fe302)
+Dashboard[image](https://github.com/user-attachments/assets/66a6ed1c-c9a5-4b77-8ca9-4127e09fe302)
 
 
 A comprehensive data analysis project built using Microsoft Excel to uncover insights from Vrinda Store's 2022 sales dataset.
