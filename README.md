@@ -26,21 +26,13 @@ Retail data often holds valuable insights that can guide decision-making. This p
 
 ## 📊 Tools Used
 
-- **Microsoft Excel (2021)**
+- **Microsoft Excel (2025)**
   - Pivot tables
   - Dynamic charts
   - Drop-down filters
   - Conditional formatting
 
----
 
-## 🌟 Sample Dashboard
-
-> 📌 _Include a screenshot of your Excel dashboard here:_
-
-![Excel Dashboard](assets/dashboard-cover.png)
-
----
 
 ## 📁 File Structure
 
@@ -72,7 +64,7 @@ Retail data often holds valuable insights that can guide decision-making. This p
 ## 📬 Contact
 
 Made by **Alish**  
-📧 [your-email@example.com]  
-🌐 [LinkedIn or GitHub Profile]
+📧 [vavadiyaalish@example.com]  
+🌐 [[LinkedIn Profile](https://www.linkedin.com/in/alish-patel-749a64281/)]
 
 ---
